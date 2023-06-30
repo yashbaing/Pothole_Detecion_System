@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "590726408196",
+    "project_id": "pothhole-a9cdd",
+    "storage_bucket": "pothhole-a9cdd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:590726408196:android:e0a6f51977f62674b2ad51",
+        "android_client_info": {
+          "package_name": "com.example.pothole1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "590726408196-b36oiu6mgi4c9djrn0p79ami2676gmod.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.pothole1",
+            "certificate_hash": "2dc3a94a4e3f9f5006819fb84de411c88e7f69ed"
+          }
+        },
+        {
+          "client_id": "590726408196-f4bfsteiudkj6b5mosu9a6i6v8oep1ik.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHvvl_s1CtvDjAWOuTj4egBkaZ55uXD24"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "590726408196-f4bfsteiudkj6b5mosu9a6i6v8oep1ik.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
